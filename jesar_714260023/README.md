@@ -1,4 +1,4 @@
-Tugas Minggu Pertama 
+Tugas Minggu Pertama 1
 Nama :Jesar Dian Muhammad
 NPM :714260023
 Kelompok : 7 DT09
