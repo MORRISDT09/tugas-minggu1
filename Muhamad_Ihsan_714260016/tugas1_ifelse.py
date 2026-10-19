@@ -7,7 +7,7 @@ try:
     nilai = float(input("Masukkan nilai akhir (0-100): "))
 except ValueError:
     print("-" * 50)
-    print("Input tidak valid! Masukkan angka saja, contoh: 85")
+    print("Input tidak valid! Masukkan angka saja. contoh: 85")
     print("-" * 50)
     print("Terima kasih telah menggunakan program ini.")
     print("=" * 50)
