@@ -8,6 +8,7 @@ folder ini berisi latihan dan tugas modul 1 pada pelatihan MORRIS teknik informa
 
 ## daftar berkas
 - latihan1_kalkulator.py : kalkulator konsol sederhana 
+-tugas_ifelse.py         : program percabangan If-Else
 
 ##cara menjalankan
 jalankan perintah berikut pada terminal:
