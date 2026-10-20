@@ -14,8 +14,7 @@ except ValueError:
     raise SystemExit
 
 print("-" * 50)
-
-
+    
 if nilai < 0 or nilai > 100:
     print("Nilai ditolak! Nilai harus berada di rentang 0-100.")
 else:
@@ -50,6 +49,6 @@ print("=" * 50)
 print("Nama: Muhamad Ihsan Al Arabi")
 print("NIM: 714260016")
 print("Kelompok: DT09")
-print("Kelas: 1B")
+print("Kelas: D4 T1 1B")
 print("=" * 50)
 
