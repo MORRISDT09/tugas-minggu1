@@ -6,7 +6,7 @@ Kelompok:07
 
 ### Dafter Berkas
 - latihan1_kalkulator.py : kalkulator konsol sederhana
-- Tugas1_if_else.py :
+- Tugas1_ifelse.py : program percabangan If-Else
 
 ## Cara Menjalankan
 Jalankan perintah berikut pada terminal:
